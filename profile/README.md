@@ -2,5 +2,4 @@
 
 More information on [practal.com](https://practal.com).
 
-![Experimental SVG](profile/experiment.svg | width=100%)
-
+<img src="profile/experiment.svg" width="100%">
