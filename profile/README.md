@@ -2,5 +2,5 @@
 
 More information on [practal.com](https://practal.com).
 
-![Experimental SVG](profile/experiment.svg)
+![Experimental SVG](profile/experiment.svg | width=100%)
 
