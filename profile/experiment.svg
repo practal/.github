@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="122.227 190.76 134.954 77.901" width="134.954" height="77.901" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="134.565" cy="192.796" r="67.477" id="gradient-0" gradientTransform="matrix(-0.051971, 0.998648, -2.126073, -0.110643, 551.456787, 79.744446)">
+      <stop offset="0" style="stop-color: rgb(199, 240, 175);"/>
+      <stop offset="1" style="stop-color: rgb(167, 231, 241);"/>
+    </radialGradient>
+  </defs>
+  <rect x="67.088" y="153.845" width="134.954" height="77.901" style="stroke: rgb(0, 0, 0); fill: url(#gradient-0);" transform="matrix(1, 0, 0, 1, 55.138729, 36.915447)"/>
+  <a href="https://github.com/practal/things"> 
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.5px;" x="105.389" y="195.552" transform="matrix(1, 0, 0, 1, 55.138729, 36.915447)">things</text>
+  </a>
+</svg>
