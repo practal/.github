@@ -1,3 +1,1 @@
-# Practal — Practical Logic: A Bicyle for Your Mathematical Mind
-
-Overview repository for [Practal](https://github/practal.com).
+Overview repository for [the Practal organization on GitHub](https://github.com/practal.com).
