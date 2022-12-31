@@ -8,8 +8,7 @@ Before that can happen, I first need to firmly establish the roots of the projec
 
 Much is planned for 2023, illustrated in the following graphic:
 
-<img width="100%" style="border-radius: 25px;
-  border: 2px solid #73AD21" src="profile/products.png">
+<img width="100%" style="border-radius: 25px; border: 2px solid #73AD21" src="profile/products.png">
 
 The graphic shows several planned, highly interdependent products: two web apps, and six supporting open-source TypeScript packages.
 Let's see what each of these products is about in a bit more detail. 
