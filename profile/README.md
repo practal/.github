@@ -1,5 +1,7 @@
 # Practal — Practical Logic: A Bicyle for Your Mathematical Mind
 
+*1 January 2023*
+
 For background information of *Practal* and its vision, please also check out [practal.com](https://practal.com).
 
 Currently, only [me](https://github.com/phlegmaticprogrammer) is working on *Practal*. Hopefully that will change in 2023! 
