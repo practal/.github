@@ -12,7 +12,8 @@ Much is planned for 2023, illustrated in the following graphic:
 
 <img width="100%" src="profile/products.png">
 
-The graphic shows several planned, highly interdependent products: two web apps, and six supporting open-source TypeScript packages.
+The graphic shows three planned, highly interdependent products: a cloud app, a Visual Studio Code extension, and a programming language.
+
 Let's see what each of these products is about in a bit more detail. 
 
 ## *Practal.com*
