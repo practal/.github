@@ -1,5 +1,7 @@
 # Practal — Practical Logic: A Bicyle for Your Mathematical Mind
 
+*1 January 2023*
+
 For background information of *Practal* and its vision, please also check out [practal.com](https://practal.com).
 
 Currently, only [me](https://github.com/phlegmaticprogrammer) is working on *Practal*. Hopefully that will change in 2023! 
@@ -68,7 +70,7 @@ Both [Things](https://github.com/practal/things) and [InstaTest](https://github.
 
 The two web apps will be published under a Freemium business model based on subscriptions. The hope is that this enables sustained development and availability of resources, such that Practal and Grammar.design can eventually become everyday infrastructure. 
 
-To ensure that this infrastructure can be used without worrying about lock-in, core components of Practal and Grammar.design are published as open-source projects. Please consider donating to them. This will soon be possible via GitHub Sponsors, and help a lot!
+To ensure that this infrastructure can be used without worrying about lock-in, core components of Practal and Grammar.design are published as open-source projects. Please consider [sponsoring them](https://github.com/sponsors/practal?o=sd&sc=t)! 
 
 
 
