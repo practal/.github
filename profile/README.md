@@ -28,7 +28,7 @@ While there is no way that Practal can be fully realized in 2023, a first versio
 
 *Practal Core* will be an open-source implementation of Practal's core functionality. It implements core concepts of Practal such as [*Abstraction Algebra* and *Abstraction Logic*](https://obua.com/publications/philosophy-of-abstraction-logic/2/). Besides functioning as a library which you can import into your own projects, it is also a Visual Studio Code extension. Practal Core enables you to make use of all artefacts created with Practal wherever and however you want to. Here is a preview of how it looks in VSCode:
 
-<img width="100%" src="profile/products.png">
+<img width="100%" src="profile/foundation.png">
 
 Experimental early releases of Practal Core will be available at the end of this January.
 
