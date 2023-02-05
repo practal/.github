@@ -1,8 +1,6 @@
 # Practal — Practical Logic: A Bicyle for Your Mathematical Mind
 
-*Edited Saturday, 4 February 2023*
-
-[A First Look At Practal](https://practal.com/press/aflap.1): A First Release of Practal as a Visual Studio Code Extension is out!
+[A First Look At Practal](https://practal.com/press/aflap/1): A First Release of Practal as a Visual Studio Code Extension is out!
 
 For background information on *Practal* and its vision, please also check out [practal.com](https://practal.com).
 
@@ -29,7 +27,7 @@ While there is no way that Practal can be fully realized in 2023, a first versio
 
 *Practal Core* will be an open-source implementation of Practal's core functionality. It implements core concepts of Practal such as [*Abstraction Algebra* and *Abstraction Logic*](https://obua.com/publications/philosophy-of-abstraction-logic/2/). Besides functioning as a library which you can import into your own projects, it is also a Visual Studio Code extension. Practal Core enables you to make use of all artefacts created with Practal wherever and however you want to.
 
-An experimental early release of Practal Core is [available](https://practal.com/press/aflap.1).
+An experimental early release of Practal Core is [available](https://practal.com/press/aflap/1).
 
 ## *Practalium*
 
