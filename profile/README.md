@@ -1,5 +1,7 @@
 # Practal — Practical Logic: A Bicyle for Your Mathematical Mind
 
+Practal has its first monthly sponsor, many thanks to [purebounce](https://github.com/purebounce)! 🎉
+
 [A First Look At Practal](https://practal.com/press/aflap/1): A First Release of Practal as a Visual Studio Code Extension is out!
 
 For background information on *Practal* and its vision, please also check out [practal.com](https://practal.com).
