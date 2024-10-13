@@ -9,20 +9,22 @@ Before that can happen, I first need to firmly establish the roots of the projec
 
 My goals for Practal have shifted throughout 2023/2024. I've made good progress with the theoretical side of Practal, 
 *Abstraction Logic*, and I am working on a [book about Abstraction Logic](http://abstractionlogic.com) to document that.
+The current draft of the book introduces Abstraction Logic, and proves its soundness. My current focus is now 
+on implementing this logic and making it practical.
 
-## *Practal.com* and *Practal Desktop*
+## *Practal.com*
 
-The *Practal.com* cloud app is the long-term and ultimate goal. Its purpose is to be a tool for [*Empowering Your Vision through Precision*](https://practal.com).
+The *Practal.com* cloud app will be a tool for [*Empowering Your Vision through Precision*](https://practal.com).
 For the more technically minded, think of it as a tool for *Designing with Abstractions*.
 
 If that still sounds too vague for you, imagine something of a fusion of interactive theorem proving systems like [Isabelle](https://isabelle.in.tum.de), with systems like [SageMath](https://www.sagemath.org), word processing technologies inspired by LaTeX, [Markdown](https://daringfireball.net/projects/markdown/) and [Obsidian](https://obsidian.md), and AI capabilities inspired by systems such as [ChatGPT](https://openai.com/blog/chatgpt).
 
-*Practal Desktop* is planned to be a version of Practal that runs locally on your desktop, independently from any cloud.
+## *Practal Desktop* and *Practal Core*
 
-## *Practal Core*
+*Practal Desktop* is planned to be an open-source version of Practal that runs locally on your desktop, independently from any cloud.
 
-*Practal Core* is planned to be an open-source library implementing fundamental algorithms and data structures of Practal,
-for inclusion in your own software so that it can enjoy the same strong foundation as Practal does.
+It is based on *Practal Core*, which is planned to be an open-source library implementing fundamental algorithms and data structures of Practal,
+for inclusion in your own software so that it can enjoy the same strong foundation as Practal.
 
 ## *Practalium*
 
