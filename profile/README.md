@@ -17,7 +17,7 @@ on implementing this logic and making it practical.
 The *Practal.com* cloud app will be a tool for [*Empowering Your Vision through Precision*](https://practal.com).
 For the more technically minded, think of it as a tool for *Designing with Abstractions*.
 
-If that still sounds too vague for you, imagine something of a fusion of interactive theorem proving systems like [Isabelle](https://isabelle.in.tum.de), with systems like [SageMath](https://www.sagemath.org), word processing technologies inspired by LaTeX, [Markdown](https://daringfireball.net/projects/markdown/) and [Obsidian](https://obsidian.md), and AI capabilities inspired by systems such as [ChatGPT](https://openai.com/blog/chatgpt).
+If that still sounds too vague for you, imagine something of a fusion of interactive theorem proving systems like [Isabelle](https://isabelle.in.tum.de), computer algebra systems such as [Mathematica](https://www.wolfram.com/mathematica/), word processing technologies inspired by LaTeX, [Markdown](https://daringfireball.net/projects/markdown/) and [Obsidian](https://obsidian.md), and AI capabilities inspired by systems such as [ChatGPT](https://openai.com/blog/chatgpt).
 
 ## *Practal Desktop* and *Practal Core*
 
