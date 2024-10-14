@@ -15,9 +15,10 @@ on implementing this logic and making it practical.
 ## *Practal.com*
 
 The *Practal.com* cloud app will be a tool for [*Empowering Your Vision through Precision*](https://practal.com).
-For the more technically minded, think of it as a tool for *Designing with Abstractions*.
 
-If that still sounds too vague for you, imagine something of a fusion of interactive theorem proving systems like [Isabelle](https://isabelle.in.tum.de), computer algebra systems such as [Mathematica](https://www.wolfram.com/mathematica/), word processing technologies inspired by LaTeX, [Markdown](https://daringfireball.net/projects/markdown/) and [Obsidian](https://obsidian.md), and AI capabilities inspired by systems such as [ChatGPT](https://openai.com/blog/chatgpt).
+The goal of Practal is it to make it simple(r) to turn your vision consisting of maybe vague ideas into a precise design consisting
+of abstractions. This allows you to reason about your design, change it according to requirements, visualize it, execute it, and
+reuse it for other designs.
 
 ## *Practal Desktop* and *Practal Core*
 
@@ -28,7 +29,9 @@ for inclusion in your own software so that it can enjoy the same strong foundati
 
 ## *Practalium*
 
-If Abstraction Logic is the best logic possible, would not a programming language based on it be the best programming language possible? Practalium is a project to find this out! If successful, Practalium code will make its way into building Practal alongside TypeScript.
+If Abstraction Logic is the best logic possible, would not a programming language based on it be the best programming language possible? 
+
+Practalium is a project to find this out! If successful, Practalium code will make its way into building Practal alongside TypeScript.
 
 ## Funding
 
